@@ -1,0 +1,6 @@
+{
+  "name": "WORKFORCE HEALTH SA",
+  "description": "WORKFORCE HEALTH SA (WFH) - Occupational hygiene and workplace health platform for South African mining and industrial facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
